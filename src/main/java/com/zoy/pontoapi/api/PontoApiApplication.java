@@ -1,4 +1,4 @@
-package com.zoy.api.pontoapi.api;
+package com.zoy.pontoapi.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
