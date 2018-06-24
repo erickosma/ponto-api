@@ -1,4 +1,4 @@
-package com.zoy.api;
+package com.zoy.api.pontoapi.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,7 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class PontoApiApplication {
 
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         SpringApplication.run(PontoApiApplication.class, args);
     }
 }
