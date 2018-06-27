@@ -9,7 +9,7 @@ import java.util.List;
 @Table(name = "empresa")
 public class Empresa implements Serializable {
 
-	private static final long serialVersionUID = 3960436649365666213L;
+	//private static final long serialVersionUID = 3960436649365666213L;
 	
 	private Long id;
 	private String razaoSocial;

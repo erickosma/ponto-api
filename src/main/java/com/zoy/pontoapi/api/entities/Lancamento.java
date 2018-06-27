@@ -11,7 +11,7 @@ import java.util.Date;
 @Table(name = "lancamento")
 public class Lancamento implements Serializable {
 	
-	private static final long serialVersionUID = 6524560251526772839L;
+	//private static final long serialVersionUID = 6524560251526772839L;
 
 	private Long id;
 	private Date data;
